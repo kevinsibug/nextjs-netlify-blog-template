@@ -1,6 +1,10 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: kevinsibug
+    name: Kevin Daniel Sibug
+    introduction: My passion is creating data-driven solutions for modern day
+      problems. I am currently taking Computer Science as my major in Ateneo De
+      Manila University.
